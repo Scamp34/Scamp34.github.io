@@ -11,7 +11,12 @@ image: cuba-1.jpg
 
 ## Это раздел 1
 
+Это пример перехода на другой пост блока. 
 [Getting Started]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}): getting started with installing Millennial, whether you are completely new to using Jekyll, or simply just migrating to a new Jekyll theme.
+
+{{ site.github.url }}: Это переменная, которая обычно используется в системах управления контентом, таких как Jekyll или GitHub Pages, для представления базового URL-адреса сайта. Когда сайт генерируется, эта переменная заменяется на фактический URL-адрес сайта.
+
+{% post_url 2016-09-09-text-formatting %}: Это тег, который используется в системе управления контентом для создания URL-адреса для определенной статьи или поста на основе ее даты и заголовка. В данном случае, этот тег генерирует URL-адрес для статьи или ресурса с датой 9 сентября 2016 года и заголовком "text-formatting".
 
 ## Example Content
 
