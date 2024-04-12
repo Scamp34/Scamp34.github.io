@@ -4,7 +4,7 @@ title: "Мой первый тестовый пост"
 author: "Scamp"
 categories: documentation
 tags: [documentation,sample]
-image: cuba-1.jpg
+image: Stairs.png
 ---
 
 Тут я пишу какое-то введение
